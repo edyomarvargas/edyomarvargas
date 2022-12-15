@@ -5,7 +5,8 @@
   <div align="left" style="display: inline_block">
     <li> Estudante de Desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a></li>
     <li> Certificação em Front-end</li>
-    <li> Atualmente estudando Back-end</li>
+    <li> Certificação em Back-end</li>
+    <li> Atualmente estudando o módulo de Ciência da Computação da Trybe</li>
     <li> Contato por e-mail através de: edyomarvargas1@gmail.com</li>
   </div>
 </div>
@@ -16,7 +17,8 @@
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" align="center" height=30/>&nbsp;<span>HTML 5</span> &nbsp; &nbsp;
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" align="center" height=30/>&nbsp;<span>CSS 3</span> &nbsp; &nbsp;
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" align="center" height=30/>&nbsp;<span>JavaScript</span> &nbsp; &nbsp;
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" align="center" height=30/>&nbsp;<span>TypeScript</span> &nbsp; &nbsp; 
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" align="center" height=30/>&nbsp;<span>TypeScript</span> &nbsp; &nbsp;
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" align="center" height=30/>&nbsp;<span>Python</span> &nbsp; &nbsp; 
 <br><br>
 <h4>Front-end: componentização da aplicação, gerenciamento de estado, testes automatizados</h4>
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" align="center" height=30/>&nbsp;<span>React</span> &nbsp; &nbsp;
@@ -28,6 +30,8 @@
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" align="center" height=30/>&nbsp;<span>Node.js</span> &nbsp; &nbsp;
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" align="center" height=30/>&nbsp;<span>Docker</span> &nbsp; &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" align="center" height="30" width="40" />&nbsp;<span>MySQL</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" align="center" height="30" width="40" />&nbsp;
+<span>MongoDB</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" align="center" height="30" width="40" />&nbsp;
 <span>Sequelize</span> &nbsp; &nbsp;
 <br><br>

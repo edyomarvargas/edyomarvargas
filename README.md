@@ -1,13 +1,11 @@
 ## Olá, eu sou o Edyomar Vargas!
 
 <div align="center">
-  <img height="110px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
-    <li> Estudante de Desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a></li>
-    <li> Certificação em Front-end</li>
-    <li> Certificação em Back-end</li>
-    <li> Atualmente estudando o módulo de Ciência da Computação da Trybe</li>
+    <li> Engenheiro de Software na <a href="https://levty.com">Levty</a></li>
+    <li> Certificação em Desenvolvimento Web Full Stack pela <a href="https://betrybe.com">Trybe</a></li>
     <li> Contato por e-mail através de: edyomarvargas1@gmail.com</li>
+    <li> LinkedIn: https://www.linkedin.com/in/edyomar-vargas/</li>
   </div>
 </div>
 
